@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Ahmet Yılmaz",
+            "earnings": 1500,
+            "posDate": "2022-06-15",
+            "city": "İstanbul",
+            "district": "Kadıköy",
+            "station": "Kadıköy Durak",
+            "status": "Aktif"
+        },
+        {
+            "id": 2,
+            "name": "Mehmet Demir",
+            "earnings": 2000,
+            "posDate": "2021-11-20",
+            "city": "Ankara",
+            "district": "Çankaya",
+            "station": "Kızılay Durak",
+            "status": "Pasif"
+        },
+        {
+            "id": 3,
+            "name": "Ali Korkmaz",
+            "earnings": 1800,
+            "posDate": "2022-02-05",
+            "city": "İzmir",
+            "district": "Karşıyaka",
+            "station": "Bostanlı Durak",
+            "status": "Aktif"
+        },
+        {
+            "id": 4,
+            "name": "Veli Çelik",
+            "earnings": 1200,
+            "posDate": "2021-08-10",
+            "city": "Antalya",
+            "district": "Muratpaşa",
+            "station": "Konyaaltı Durak",
+            "status": "Aktif"
+        },
+        {
+            "id": 5,
+            "name": "Osman Aydın",
+            "earnings": 1600,
+            "posDate": "2021-12-01",
+            "city": "Bursa",
+            "district": "Nilüfer",
+            "station": "FSM Bulvarı Durak",
+            "status": "Pasif"
+        },
+        {
+            "id": 1006,
+            "name": "Murat Tollner",
+            "earnings": 1800,
+            "posDate": "2022-04-12",
+            "city": "Eskişehir",
+            "district": "Odunpazarı",
+            "station": "Espark Durak",
+            "status": "Aktif"
+        },
+        {
+            "id": 1007,
+            "name": "Hasan Dilliard",
+            "earnings": 2100,
+            "posDate": "2021-07-30",
+            "city": "Kayseri",
+            "district": "Melikgazi",
+            "station": "Kayseri Merkez Durak",
+            "status": "Aktif"
+        },
+        {
+            "id": 1008,
+            "name": "İsmail Wieser",
+            "earnings": 1900,
+            "posDate": "2021-09-25",
+            "city": "Konya",
+            "district": "Selçuklu",
+            "station": "Zafer Durak",
+            "status": "Pasif"
+        },
+        {
+            "id": 1009,
+            "name": "Kadir Marrier",
+            "earnings": 1400,
+            "posDate": "2022-03-18",
+            "city": "Adana",
+            "district": "Seyhan",
+            "station": "Adana Merkez Durak",
+            "status": "Aktif"
+        }
+    ]
+}
